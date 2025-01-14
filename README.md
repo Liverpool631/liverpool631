@@ -1,28 +1,9 @@
-#  🙋 Hello
-
-<table>
+<h3 align="center">Hello I,m liverpool</h3>
+<p align="center">I am a fan of the Azurlane game</p>
   
-<tr><td>
+<p>
+I am a programming novice, I am learning CPP, and I plan to learn HTML, CSS, JS and other languages. I really like Arch Linux
+</p>
 
-### 🤺 About Me
-
-
-
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-</td></tr>
-
-<tr><td>
-
-<tr><td>
-
-
-
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  
-</td></tr>
+<p align="center">I love HMS Liverpool (C11)</p>
 
