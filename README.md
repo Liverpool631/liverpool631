@@ -1,3 +1,2 @@
 # 🙋Hello
-<table>
 ### 🤺 About Me
